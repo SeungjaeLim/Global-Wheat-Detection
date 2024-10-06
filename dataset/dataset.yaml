@@ -1,0 +1,9 @@
+path: D:/Global-Wheat-Detection/yolov8_sample_implementation/dataset
+train: D:/Global-Wheat-Detection/yolov8_sample_implementation/dataset/images/train
+val: D:/Global-Wheat-Detection/yolov8_sample_implementation/dataset/images/valid
+test: D:/Global-Wheat-Detection/yolov8_sample_implementation/dataset/images/test
+
+# Classes
+names:
+    0: none
+    1: opacity
